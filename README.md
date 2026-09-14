@@ -321,7 +321,4 @@ Final answer
 - Add automated evaluation for RAG retrieval quality and answer quality.
 
 ## Author
-
 **Nguyen Huynh Duc Tan**
-
-GitHub: https://github.com/nghductan
