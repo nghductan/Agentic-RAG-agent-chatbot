@@ -322,6 +322,6 @@ Final answer
 
 ## Author
 
-**Duc Tan Nguyen**
+**Nguyen Huynh Duc Tan**
 
 GitHub: https://github.com/nghductan
